@@ -1,0 +1,32 @@
+header {
+    /* width: auto; */
+    height: 100px;
+   
+    background-image: url(./img/pattern.png);
+    background-position:center;
+    background-size:contain;
+    background-color: skyblue;
+}
+
+#logo {
+    width: 250px;
+}
+
+.scritto-da {
+    color: grey;
+    font-size: small;
+}
+
+#text-blue {
+    color: skyblue;
+}
+
+.descrizioni-foto {
+
+    font-size: small;
+}
+
+span {
+
+background-color: yellow;
+}
